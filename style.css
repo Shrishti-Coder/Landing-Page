@@ -46,6 +46,17 @@
         color: #fff;
         text-decoration: none;
       }
+      .sec{
+        background-image: url(pexels-rafael-cosquiere-2041540.jpg);
+        background-size: cover;
+        height: 80px;
+        width: 100%;
+        color: #ffffff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+      }
       .sec1 {
         background-image: url(pexels-rafael-cosquiere-2041540.jpg);
         background-size: cover;
@@ -102,7 +113,6 @@
         grid-gap: 5px;
       }
           footer {
-               width:100%;
         background-color: #333;
         color: #fff;
         padding: 20px;
